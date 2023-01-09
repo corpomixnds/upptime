@@ -1,7 +1,7 @@
 url: https://osrm.vivenortedesantander.com.co/route/v1/driving/-72.49939892298482,7.883757374457861;-72.50015034564491,7.884847252079377?steps=true&alternatives=false&overview=full
 status: up
 code: 200
-responseTime: 141
-lastUpdated: 2023-01-08T23:07:06.764Z
+responseTime: 62
+lastUpdated: 2023-01-09T23:07:32.758Z
 startTime: Fri Dec 16 2022 02:40:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
