@@ -22,10 +22,10 @@
     "url": "https://corpomixnds-backend-q34sb.ondigitalocean.app/api/v1/historical_routes",
     "icon": "https://icons.duckduckgo.com/ip3/corpomixnds-backend-q34sb.ondigitalocean.app.ico",
     "slug": "vive-norte-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 365,
@@ -33,16 +33,18 @@
     "timeWeek": 366,
     "timeMonth": 372,
     "timeYear": 365,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-29": 1
+    }
   },
   {
     "name": "Vive Norte Maps",
     "url": "https://maps.vivenortedesantander.com.co",
     "icon": "https://icons.duckduckgo.com/ip3/maps.vivenortedesantander.com.co.ico",
     "slug": "vive-norte-maps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 206,
     "timeMonth": 188,
     "timeYear": 200,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-29": 0
+    }
   },
   {
     "name": "Vive Norte OSRM",
